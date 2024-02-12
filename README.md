@@ -38,3 +38,6 @@ I have scrapped the below contents:-
 
 **Step 4:** Inspect the page and write codes for extraction.
 
+
+
+![inspect_page](https://github.com/kiranndeep/Python_Web_Scrapping/assets/159169837/21d8e514-197f-42d4-b47a-7e625b7477b6)
