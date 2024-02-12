@@ -23,7 +23,7 @@ I have scrapped the below contents:-
 
 **Step 1:** Install the necessary libraries like BeautifulSoup and Requests.
 
-
+![libraries](https://github.com/kiranndeep/Python_Web_Scrapping/assets/159169837/b6ba2ca3-247a-47e9-a5f3-864f5ac0d02f)
 
 
 
