@@ -26,7 +26,10 @@ I have scrapped the below contents:-
 ![libraries](https://github.com/kiranndeep/Python_Web_Scrapping/assets/159169837/b6ba2ca3-247a-47e9-a5f3-864f5ac0d02f)
 
 
+**Step 2:** Choose the data you need to extract.
 
+![data_extract](https://github.com/kiranndeep/Python_Web_Scrapping/assets/159169837/f8918d99-cb7a-4174-9595-eee1d786ed27)
 
+**Step 3:** Send HTTP request to the URL of the page you want to scrape.
 
 
