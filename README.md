@@ -33,3 +33,8 @@ I have scrapped the below contents:-
 **Step 3:** Send HTTP request to the URL of the page you want to scrape.
 
 
+![HTTP_request](https://github.com/kiranndeep/Python_Web_Scrapping/assets/159169837/d9f1135f-3ef6-4bdc-8345-b1cded070163)
+
+
+**Step 4:** Inspect the page and write codes for extraction.
+
